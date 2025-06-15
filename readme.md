@@ -1,1 +1,1 @@
-Everything saced lokaly meant for singel server use so no big bot that uses this specifc code for multiple servers tahts not going to work cause everything as said is saved lokaly and all the settings have to be manualy added 
+Everything saved lokaly meant for singel server use so no big bot that uses this specifc code for multiple servers tahts not going to work cause everything as said is saved lokaly and all the settings have to be manualy added 
